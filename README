@@ -1,0 +1,1 @@
+This is a bot which competed in the google Ants AI challenge at aichallenge.org. Its a bot based on collaborative diffusion. Combat tactics are based on crude quorum sensing. (Got lazy to implement a nicer one).... All diffusion happens by matrix convolution on numpy. There are many features (like armies) which were turned off at the last moment 
